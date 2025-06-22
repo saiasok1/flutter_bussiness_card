@@ -4,7 +4,7 @@ This is a simple Flutter app that displays a personal digital business card with
 
 ## 📱 Preview
 
-![App Screenshot](images\my_card_screenshot.png)
+![App Screenshot](https://github.com/saiasok1/flutter_bussiness_card/blob/master/images/my_card_screenshot.png)
 
 ## 🚀 Features
 - Displays name, profile picture, title
